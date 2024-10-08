@@ -14,7 +14,8 @@
 ## 🌟 Fun Facts
 
 - I’m a coffee addict ☕ and love exploring new coffee blends.
-- I enjoy hiking 🏞️ and working on various projects and learning new technologies in my free time.
+- I’m an avid reader 📚
+- When I’m not coding, you can find me swimming laps 🏊‍♂️ to stay energized and focused. It’s my favorite way to unwind!
   
 ## 📫 Contact Me
 - **Email:** sanika.vkarwa@gmail.com
@@ -25,18 +26,3 @@
 ## **⚡ OPEN TO NEW OPPORTUNITIES ⚡**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanika-karwa&color=blue&style=flat)
-
-<!--
-**sanika-karwa/sanika-karwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
